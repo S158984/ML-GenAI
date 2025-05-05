@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258884064015000763/b842192d779b4885852f430e6974ba2c/artifacts
+end_time: 1746464651567
+entry_point_name: ''
+experiment_id: '258884064015000763'
+lifecycle_stage: active
+run_id: b842192d779b4885852f430e6974ba2c
+run_name: melodic-croc-283
+run_uuid: b842192d779b4885852f430e6974ba2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746464651164
+status: 4
+tags: []
+user_id: SUDHARSHAN

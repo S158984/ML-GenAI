@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/258884064015000763
+creation_time: 1746463207752
+experiment_id: '258884064015000763'
+last_update_time: 1746463207752
+lifecycle_stage: active
+name: Logistic Regression using Voice dataset

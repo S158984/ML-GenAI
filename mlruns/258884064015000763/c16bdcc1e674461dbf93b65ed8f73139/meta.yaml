@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258884064015000763/c16bdcc1e674461dbf93b65ed8f73139/artifacts
+end_time: 1746464628600
+entry_point_name: ''
+experiment_id: '258884064015000763'
+lifecycle_stage: active
+run_id: c16bdcc1e674461dbf93b65ed8f73139
+run_name: mercurial-foal-122
+run_uuid: c16bdcc1e674461dbf93b65ed8f73139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746464628231
+status: 4
+tags: []
+user_id: SUDHARSHAN

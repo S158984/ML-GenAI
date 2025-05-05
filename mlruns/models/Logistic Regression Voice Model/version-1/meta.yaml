@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746464826043
+current_stage: None
+description: ''
+last_updated_timestamp: 1746464826043
+name: Logistic Regression Voice Model
+run_id: 688ff5c7076c472ab76cf15ed4c1db1a
+run_link: ''
+source: mlflow-artifacts:/258884064015000763/688ff5c7076c472ab76cf15ed4c1db1a/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/258884064015000763/688ff5c7076c472ab76cf15ed4c1db1a/artifacts/model
+user_id: null
+version: 1

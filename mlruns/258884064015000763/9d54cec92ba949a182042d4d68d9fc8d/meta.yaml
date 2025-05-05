@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258884064015000763/9d54cec92ba949a182042d4d68d9fc8d/artifacts
+end_time: 1746464579153
+entry_point_name: ''
+experiment_id: '258884064015000763'
+lifecycle_stage: active
+run_id: 9d54cec92ba949a182042d4d68d9fc8d
+run_name: indecisive-cat-789
+run_uuid: 9d54cec92ba949a182042d4d68d9fc8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746464578911
+status: 4
+tags: []
+user_id: SUDHARSHAN
