@@ -8,3 +8,4 @@ ipykernel
 tensorboard
 streamlit
 mlflow
+nltk
