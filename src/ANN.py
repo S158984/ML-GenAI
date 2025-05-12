@@ -60,7 +60,8 @@ input_data = pd.DataFrame({
 print('geography is ', geography)
 onehot_geo=onehot.transform([[geography]])
 print('onehot_geo ----->>>>', onehot_geo)
-onehot_geo_df=pd.DataFrame(onehot_geo, columns=onehot.get_feature_names(['Geography']))
+#print('------->>>>>',onehot.get_feature_names(['Geography']))
+onehot_geo_df=pd.DataFrame(onehot_geo, columns=onehot.get_feature_names_out(['Geography']))
 
 input_data_df=pd.concat([input_data,onehot_geo_df],axis=1)
 
